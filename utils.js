@@ -224,7 +224,7 @@ const remingtonMapping = {
     const a = [];
     let z = 0;
   
-    const EnglishTextReal = englishText;
+    // const EnglishTextReal = englishText;
   
     console.log("engtext" , {EnglishTextReal})
     
